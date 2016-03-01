@@ -1,3 +1,13 @@
 body {
   background-color: #d2e0c5;
+  padding: 100px;
+  color: #355465;
+  background-image: url(beige001.jpg);
 }
+
+a {
+    color: #612c2c;
+    text-decoration: none;
+  }
+
+a:hover { color: #b23c3c;}
