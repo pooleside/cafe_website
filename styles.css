@@ -26,3 +26,10 @@ h2{
 .price {
   color: #901b2e;
 }
+
+#name{
+  color: #132;
+}
+#name.price {
+  color: #008490;
+}
