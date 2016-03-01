@@ -11,3 +11,14 @@ a {
   }
 
 a:hover { color: #b23c3c;}
+
+h2{
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+#location-header {
+  border-top: 2px solid #b9afaf;
+  margin-top: 40px;
+  padding-top: 20px;
+}
