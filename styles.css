@@ -3,11 +3,7 @@ body {
   padding: 100px;
   color: #355465;
   background-image: url(beige001.jpg);
-  font-family: Georgia, serif;
-	font-size:17px;
-	line-height:27px;
-	width:700px;
-	margin:0px auto;
+
 }
 
 a {
@@ -38,3 +34,23 @@ h2{
 #name.price {
   color: #008490;
 }
+---------------------------new------------
+body{
+  font-family: Georgia, serif;
+	font-size:17px;
+	line-height:27px;
+	width:700px;
+	margin:0px auto;
+}
+
+ul{
+  list-style: none;
+  padding-left: 0px;
+}
+
+ul li {
+  margin-bottom: 25px;
+
+}
+
+img{max-width: 100%;}
