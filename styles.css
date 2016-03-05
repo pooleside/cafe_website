@@ -3,6 +3,11 @@ body {
   padding: 100px;
   color: #355465;
   background-image: url(beige001.jpg);
+  font-family: Georgia, serif;
+	font-size:17px;
+	line-height:27px;
+	width:700px;
+	margin:0px auto;
 }
 
 a {
