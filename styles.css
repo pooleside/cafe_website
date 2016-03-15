@@ -55,3 +55,10 @@ ul li {
 img{max-width: 100%;}
 
 .ornament{color: #901b2e;}
+
+.with{
+  font-style: italic;
+  font-size: 15px;
+  color: #A5A1A1;
+  display: block;
+}
